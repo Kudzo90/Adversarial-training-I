@@ -39,7 +39,7 @@ The framework utilizes a "Denoising" approach where adversarial perturbations ar
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/adversarial-nlp-hatd.git
+   git clone https://github.com/Kudzo90/adversarial-nlp-hatd.git
    cd adversarial-nlp-hatd
 
 Install dependencies:
