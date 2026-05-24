@@ -1,17 +1,3 @@
-This is a professional README.md tailored for this project. It emphasizes the methodology, resource-constrained focus, and reproducibility.
-
-🏗️ Recommended Repository Structure
-
-Before you upload, ensure your folder structure looks like this:
-
-├── data/                   # Dataset (SST-2)
-├── models/                 # Model definitions (HAT-D, Baselines)
-├── results/                # Plots, CSVs, and Artifacts
-├── checkpoints/            # (Optional) Saved .pth files
-├── notebooks/              # Colab/Kaggle .ipynb files
-├── src/                    # Python scripts for training/eval
-└── README.md
-
 📄 README.md Template
 # Lightweight Hybrid Adversarial Training for Resource-Constrained Sentiment Analysis (HAT-D)
 
