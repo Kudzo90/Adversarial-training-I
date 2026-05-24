@@ -1,4 +1,3 @@
-📄 README.md Template
 # Lightweight Hybrid Adversarial Training for Resource-Constrained Sentiment Analysis (HAT-D)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
